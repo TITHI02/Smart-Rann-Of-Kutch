@@ -1,0 +1,17 @@
+{
+  "name": "Kutch Sustainable Tourism AI",
+  "version": "1.0.0",
+  "description": "An AI-powered sustainable tourism guide for the Kutch region, featuring travel planning, cultural insights, eco-tips, and interactive charts.",
+  "author": "",
+  "homepage": "Kutch Tourism.html",
+  "keywords": ["kutch", "tourism", "sustainable", "AI", "travel", "India"],
+  "language": "en",
+  "theme": {
+    "primaryColor": "#1a6b5a",
+    "accentColor": "#c8a96e",
+    "background": "#faf8f4"
+  },
+  "pages": [
+    "Kutch Tourism.html"
+  ]
+}
